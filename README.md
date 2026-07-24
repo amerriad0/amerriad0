@@ -2,7 +2,7 @@
 
 🚀 Full Stack Developer building scalable software solutions.
 
-I specialize in building modern applications, SaaS platforms, and real-time systems.
+I build modern applications, SaaS platforms, and real-time systems with clean architecture and high performance.
 
 ---
 
@@ -17,7 +17,7 @@ I specialize in building modern applications, SaaS platforms, and real-time syst
 
 Currently building:
 
-## 🚍 Live Bus
+# 🚍 Live Bus
 
 A real-time school transportation management platform.
 
@@ -27,7 +27,7 @@ A real-time school transportation management platform.
 
 ## Live Bus
 
-A complete school bus tracking SaaS platform.
+A complete school bus tracking SaaS platform designed to improve transportation safety and management.
 
 ### Features:
 
@@ -40,6 +40,7 @@ A complete school bus tracking SaaS platform.
 ✅ Firebase Real-time Location  
 ✅ Push Notifications  
 ✅ REST API Backend  
+✅ Real-time Data Synchronization  
 
 
 ---
@@ -49,33 +50,37 @@ A complete school bus tracking SaaS platform.
 
 ## 📱 Mobile Development
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+Flutter  
+Dart  
 
 
-## ⚙️ Backend
+## ⚙️ Backend Development
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+Laravel  
+PHP  
+REST APIs  
 
 
 ## 🗄 Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+MySQL  
+SQL Database Design  
+SQL Optimization  
 
 
-## 🐍 Programming
+## 🐍 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Python  
+JavaScript  
 
 
 ## 🔥 Tools & Cloud
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+Firebase  
+Docker  
+Linux  
+Git  
+GitHub Actions  
 
 
 ---
@@ -98,9 +103,10 @@ A complete school bus tracking SaaS platform.
 
 # 👀 Profile Views
 
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=amerriad0&label=Profile%20Views&color=blue&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=amerriad0&label=Profile%20Views&style=for-the-badge" />
 
 </div>
 
@@ -115,6 +121,7 @@ Building scalable SaaS products with:
 - Real-time Systems
 - Cloud Infrastructure
 - Mobile Applications
+- Scalable Backend Systems
 
 
 ---
@@ -123,6 +130,12 @@ Building scalable SaaS products with:
 
 
 <div align="center">
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+</a>
+
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/amer-riad-73a67b277/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
