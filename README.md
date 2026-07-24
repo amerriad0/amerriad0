@@ -147,10 +147,11 @@ Focused on:
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=amerriad0&show_icons=true&theme=tokyonight&hide_border=true" alt="Amer's GitHub Stats" />
+  <!-- Stats Card (سيرفر بديل سريع ومستقر) -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=amerriad0&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amerriad0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <br/><br/>
+  
+  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amerriad0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
@@ -161,10 +162,38 @@ Focused on:
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=amerriad0&theme=tokyonight&no-frame=true&column=6" alt="Amer's GitHub Trophies" />
+  <!-- Trophies (روابط مستقرة) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=amerriad0&theme=tokyonight&no-frame=true&column=6" alt="GitHub Trophies" />
 
 </div>
 
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=amerriad0&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:amer.riad9@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/amer-riad-73a67b277/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/amer._.riad0">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram" />
+  </a>
+</p>
 ---
 
 # 👀 Profile Views
