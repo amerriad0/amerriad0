@@ -149,10 +149,6 @@ Focused on:
 
   <!-- Stats Card -->
   <img src="https://github-readme-stats-fast.vercel.app/api?username=amerriad0&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br/><br/>
-
-  <!-- Top Languages (بديل ممتاز لـ Streak المتعطل) -->
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=amerriad0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -162,7 +158,6 @@ Focused on:
 
 <div align="center">
 
-  <!-- GitHub Badges الموثوقة من شيلدز وتعمل دائماً -->
   <a href="https://github.com/amerriad0">
     <img src="https://img.shields.io/badge/GitHub-Developer-181717?style=for-the-badge&logo=github&logoColor=white" alt="Developer Badge" />
   </a>
