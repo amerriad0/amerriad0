@@ -127,23 +127,22 @@ Building scalable SaaS products with:
 
 # 📫 Connect With Me
 
-
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+<a href="mailto:amer.riad9@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="35"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;
 
 <a href="https://www.linkedin.com/in/amer-riad-73a67b277/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="35"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;
 
 <a href="https://instagram.com/amer._.riad0">
-<img src="https://skillicons.dev/icons?i=instagram" width="50"/>
+<img src="https://skillicons.dev/icons?i=instagram" width="35"/>
 </a>
 
 </div>
