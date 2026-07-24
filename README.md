@@ -87,14 +87,13 @@ GitHub Actions
 
 # 📊 GitHub Stats
 
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amerriad0&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=amerriad0&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amerriad0&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amerriad0&layout=compact&theme=tokyonight" />
 
 </div>
 
