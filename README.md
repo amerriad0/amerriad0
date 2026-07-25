@@ -180,22 +180,7 @@ Focused on:
 
 ---
 
-# 📫 Connect With Me
 
-<p align="center">
-  <a href="mailto:amer.riad9@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/amer-riad-73a67b277/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/amer._.riad0">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram" />
-  </a>
-</p>
----
 
 # 👀 Profile Views
 
