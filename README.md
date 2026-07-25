@@ -170,15 +170,6 @@ Focused on:
 
 ---
 
-# 👀 Profile Views
-
-<div align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=amerriad0&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-
-</div>
-
----
 
 
 
