@@ -268,6 +268,8 @@ I'm currently focused on building scalable software products using:
 
 <a href="https://www.instagram.com/amer._.riad0" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram"/> </a> </p>
 
+---
+
 ## ⭐ Thanks for visiting my profile!
 
 > *"Building software that solves real-world problems with clean architecture, scalable systems, and modern technologies."*
