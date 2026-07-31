@@ -215,7 +215,7 @@ Jupyter Notebook
 ## Palestine Technical University – Kadoorie
 
 **Bachelor's Degree in Computer Science**
-2022 — 2027
+2023 — 2027
 
 ### Areas of Focus
 
