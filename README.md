@@ -260,13 +260,13 @@ I'm currently focused on building scalable software products using:
 
 ---
 
-# 📫 Connect With Me
+📫 Connect With Me
 
-* 📧 Gmail
-* 💼 LinkedIn
-* 📷 Instagram
+<p align="left"> <a href="mailto:YOUR_EMAIL@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/> </a>
 
----
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/> </a>
+
+<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram"/> </a> </p>
 
 ## ⭐ Thanks for visiting my profile!
 
