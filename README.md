@@ -1,26 +1,31 @@
 # Hi, I'm Amer Riad 👋
 
-🚀 Full Stack Developer building scalable applications, SaaS platforms, and real-time systems.
+🚀 **Full Stack Developer** building scalable web applications, mobile applications, SaaS platforms, and real-time systems.
 
-I specialize in creating modern digital solutions with clean architecture, great performance, and user-friendly experiences.
+I transform ideas into complete digital products — from designing modern user interfaces to developing secure backend systems, databases, APIs, and cloud-based solutions.
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student and Full Stack Developer passionate about software engineering, modern technologies, and building real-world products.
+I'm a **Computer Science student and Full Stack Developer** passionate about software engineering, modern technologies, and building real-world products that solve meaningful problems.
 
-My experience includes:
+I enjoy working across the entire development process — from planning the product and designing responsive interfaces to building databases, APIs, authentication systems, and scalable backend architectures.
 
-- 📱 Flutter Mobile Development
-- ⚙️ Laravel & PHP Backend Development
-- 🐍 Python Development & Automation
-- 🗄️ SQL Database Design & Optimization
-- 🔥 Firebase Real-time Systems
-- 🚀 SaaS Architecture & Cloud Solutions
-- 🎨 UI/UX & Digital Design
+My development experience includes:
 
-I enjoy transforming ideas into complete products, from designing the interface to building scalable backend systems.
+* 📱 Flutter Mobile Application Development
+* ⚛️ React Frontend Development
+* ⚙️ Laravel, PHP, and Flask Backend Development
+* 🐍 Python Development and Automation
+* 🗄️ SQL Database Design and Optimization
+* 🔥 Firebase Real-time Systems
+* 🚀 SaaS and Multi-Tenant Architecture
+* 🔌 REST API Development and Integration
+* 🎨 Responsive UI/UX and RTL Interface Design
+* ☁️ Cloud Tools, Docker, and Deployment Workflows
+
+I focus on writing clean, maintainable code and creating digital experiences that are fast, secure, scalable, and easy to use.
 
 ---
 
@@ -28,118 +33,199 @@ I enjoy transforming ideas into complete products, from designing the interface 
 
 ## Live Bus
 
-A real-time school transportation management SaaS platform designed to connect schools, drivers, and parents through smart transportation solutions.
+A real-time school transportation management SaaS platform designed to connect schools, drivers, and parents through smart and secure transportation solutions.
 
-### Features:
+### Features
 
-✅ Live GPS Bus Tracking  
-✅ Parent Mobile Application  
-✅ Driver Application  
-✅ Admin Dashboard  
-✅ Multi-Tenant SaaS Architecture  
-✅ Finance & Subscription System  
-✅ Firebase Real-time Location  
-✅ Push Notifications  
-✅ REST API Backend  
-✅ Real-time Data Synchronization  
-✅ Performance Optimization  
+✅ Live GPS Bus Tracking
+✅ Parent Mobile Application
+✅ Driver Mobile Application
+✅ School Admin Dashboard
+✅ Multi-Tenant SaaS Architecture
+✅ Finance and Subscription System
+✅ Firebase Real-time Location Tracking
+✅ Push Notifications
+✅ REST API Backend
+✅ Real-time Data Synchronization
+✅ Performance Optimization
 
 ---
 
 # 🚀 Other Projects
 
-## 🏠 Chalet Management System
-A complete management system for chalet reservations and operations.
-- Booking Management
-- Customer Management
-- Dashboard System
-- Database Management
+## 🌱 ITree — Academic Platform
 
-## 🍽 Restaurant Management System
-A digital solution for restaurants including:
-- Digital Menu
-- Online Ordering
-- Order Management
-- Admin Controls
+A modern educational platform built for Arab university students, bringing academic resources, study tools, university services, and AI-powered features into one responsive Arabic-first platform.
 
-## 🛒 E-Commerce Platform
-A modern online shopping platform with:
-- Responsive Design
-- Product Management
-- Backend APIs
-- Database Integration
+🌐 **Live Website:** [itree.pro](https://itree.pro)
 
-## 🐍 Python Projects
-Built Python applications including:
-- Automation Scripts
-- Data Analysis Projects
-- Web Scraping Tools
-- REST APIs
-- GUI Applications
+### Features
+
+* Academic courses, summaries, assignments, exams, slides, and recordings
+* Semester and cumulative GPA calculator
+* Interactive academic study plans
+* Searchable faculty directory
+* Pomodoro timer, study statistics, streaks, and group study rooms
+* AI-powered quiz generation from PDF files
+* University workshops and student project showcases
+* Technical interview preparation quizzes
+* AI university assistant with source references
+* Real-time notifications
+* Multi-university support
+* Dark and light modes
+* Responsive Arabic RTL interface
+* SEO and social sharing optimization
+
+### Technologies
+
+`React 19` `Vite` `Tailwind CSS` `Framer Motion` `JavaScript` `Context API` `reCAPTCHA`
 
 ---
 
-# 🛠 Tech Stack
+## 🚌 Safra — Bus Ticket Booking Platform
+
+A web-based platform for booking bus tickets between Palestinian cities through a smooth and fully Arabic RTL booking experience.
+
+### Features
+
+* Search trips by departure city, destination, and date
+* View available departure times and bus capacity
+* Interactive 32-seat bus selection map
+* Electronic tickets with unique ticket codes
+* View, update, and cancel reservations
+* User registration and authentication
+* Secure PHP session management
+* Password hashing and verification
+* Protected ticket management endpoints
+* SQL Prepared Statements
+* Responsive Arabic RTL interface
+
+### Technologies
+
+`PHP` `MySQL` `HTML5` `CSS3` `JavaScript` `Bootstrap 5 RTL` `Flatpickr`
+
+---
+
+## 🏠 Chalet Management System
+
+A complete management system for chalet reservations and daily operations.
+
+* Booking Management
+* Customer Management
+* Administrative Dashboard
+* Database Management
+
+---
+
+## 🍽️ Restaurant Management System
+
+A digital solution designed to simplify restaurant ordering and administration.
+
+* Digital Menu
+* Online Ordering
+* Order Management
+* Administrative Controls
+
+---
+
+## 🛒 E-Commerce Platform
+
+A modern online shopping platform with responsive interfaces and integrated backend services.
+
+* Responsive Design
+* Product Management
+* Backend APIs
+* Database Integration
+
+---
+
+## 🐍 Python Projects
+
+A collection of Python applications focused on automation, data processing, APIs, and software development.
+
+* Automation Scripts
+* Data Analysis Projects
+* Web Scraping Tools
+* REST APIs
+* GUI Applications
+
+---
+
+# 🛠️ Tech Stack
 
 ## 📱 Mobile Development
-Flutter  
-Dart  
+
+Flutter
+Dart
 
 ## ⚙️ Backend Development
-Laravel  
-PHP  
-Flask  
-REST APIs  
+
+Laravel
+PHP
+Flask
+REST APIs
 
 ## 🌐 Frontend Development
-HTML5  
-CSS3  
-JavaScript  
-Bootstrap  
 
-## 🗄 Database
-MySQL  
-SQL  
-SQLite  
-PostgreSQL  
-Database Design  
+React
+HTML5
+CSS3
+JavaScript
+Tailwind CSS
+Bootstrap
+
+## 🗄️ Databases
+
+MySQL
+PostgreSQL
+SQLite
+SQL
+Database Design
 
 ## 🐍 Programming Languages
-Python  
-Dart  
-JavaScript  
 
-## 📊 Data & Automation
-Pandas  
-NumPy  
-Matplotlib  
-Plotly  
-BeautifulSoup  
-Selenium  
+Python
+Dart
+JavaScript
+PHP
 
-## 🔥 Tools & Cloud
-Firebase  
-Docker  
-Linux  
-Git  
-GitHub Actions  
-Bash  
-Jupyter Notebook  
+## 📊 Data and Automation
+
+Pandas
+NumPy
+Matplotlib
+Plotly
+BeautifulSoup
+Selenium
+
+## 🔥 Tools and Cloud
+
+Firebase
+Docker
+Linux
+Git
+GitHub Actions
+Bash
+Jupyter Notebook
 
 ---
 
 # 🎓 Education
 
 ## Palestine Technical University – Kadoorie
-Computer Science Student  
-2022 — 2027  
 
-Focused on:
-- Software Development
-- Programming
-- Database Systems
-- Algorithms
-- Problem Solving
+**Bachelor's Degree in Computer Science**
+2022 — 2027
+
+### Areas of Focus
+
+* Software Development
+* Web and Mobile Development
+* Programming
+* Database Systems
+* Algorithms and Data Structures
+* Object-Oriented Programming
+* Problem Solving
 
 ---
 
@@ -147,8 +233,7 @@ Focused on:
 
 <div align="center">
 
-  <!-- Stats Card -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=amerriad0&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=amerriad0&show_icons=true&theme=tokyonight&hide_border=true" alt="Amer Riad GitHub Stats" />
 
 </div>
 
@@ -159,19 +244,18 @@ Focused on:
 <div align="center">
 
   <a href="https://github.com/amerriad0">
-    <img src="https://img.shields.io/badge/GitHub-Developer-181717?style=for-the-badge&logo=github&logoColor=white" alt="Developer Badge" />
+    <img src="https://img.shields.io/badge/GitHub-Developer-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Developer Badge" />
   </a>
-  &nbsp;
+
+ 
+
   <a href="https://github.com/amerriad0">
-    <img src="https://img.shields.io/badge/Contributions-2026-7952b3?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
+    <img src="https://img.shields.io/badge/Contributions-2026-7952b3?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Contributions" />
   </a>
 
 </div>
 
 ---
-
-
-
 
 # 👀 Profile Views
 
@@ -185,26 +269,47 @@ Focused on:
 
 # 📌 Current Focus
 
-Building scalable software products with:
-- Clean Architecture
-- Real-time Systems
-- SaaS Platforms
-- Cloud Infrastructure
-- Mobile Applications
-- High Performance Backend Systems
+Currently focused on building scalable software products using:
+
+* Clean Architecture
+* Real-time Systems
+* SaaS Platforms
+* Multi-Tenant Architecture
+* Cloud Infrastructure
+* Mobile Applications
+* Modern Responsive Web Applications
+* High-Performance Backend Systems
 
 ---
 
 # 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:amer.riad9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/amer-riad-73a67b277/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="https://instagram.com/amer._.riad0"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+
+  <a href="mailto:amer.riad9@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+ 
+
+  <a href="https://www.linkedin.com/in/amer-riad-73a67b277/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+ 
+
+  <a href="https://instagram.com/amer._.riad0">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
 </p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+<div align="center">
+
+⭐ **Thanks for visiting my profile!**
+
+Always learning, building, and transforming ideas into real-world software products.
+
+</div>
