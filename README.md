@@ -262,11 +262,11 @@ I'm currently focused on building scalable software products using:
 
 📫 Connect With Me
 
-<p align="left"> <a href="mailto:YOUR_EMAIL@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/> </a>
+<p align="left"> <a href="mailto:amer.riad9@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/> </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/> </a>
+<a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/amer-riad-73a67b277/)" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/> </a>
 
-<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram"/> </a> </p>
+<a href="https://www.instagram.com/amer._.riad0" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram"/> </a> </p>
 
 ## ⭐ Thanks for visiting my profile!
 
