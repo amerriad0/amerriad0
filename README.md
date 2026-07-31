@@ -1,315 +1,275 @@
-# Hi, I'm Amer Riad 👋
+# Hi there, I'm Amer Riad 👋
 
-🚀 **Full Stack Developer** building scalable web applications, mobile applications, SaaS platforms, and real-time systems.
+## 🚀 Full Stack Software Engineer
 
-I transform ideas into complete digital products — from designing modern user interfaces to developing secure backend systems, databases, APIs, and cloud-based solutions.
+I'm a **Computer Science student** and **Full Stack Developer** passionate about building scalable software products, modern SaaS platforms, real-time applications, and mobile solutions.
+
+I enjoy transforming ideas into production-ready systems—from designing intuitive user interfaces to developing secure backend architectures, databases, APIs, and cloud infrastructure.
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science student and Full Stack Developer** passionate about software engineering, modern technologies, and building real-world products that solve meaningful problems.
-
-I enjoy working across the entire development process — from planning the product and designing responsive interfaces to building databases, APIs, authentication systems, and scalable backend architectures.
-
-My development experience includes:
-
-* 📱 Flutter Mobile Application Development
-* ⚛️ React Frontend Development
-* ⚙️ Laravel, PHP, and Flask Backend Development
-* 🐍 Python Development and Automation
-* 🗄️ SQL Database Design and Optimization
+* 💻 Full Stack Web & Mobile Developer
+* 📱 Flutter Mobile Application Developer
+* ⚛️ React Frontend Developer
+* ⚙️ Laravel, PHP & Flask Backend Developer
+* 🐍 Python Developer & Automation Enthusiast
 * 🔥 Firebase Real-time Systems
-* 🚀 SaaS and Multi-Tenant Architecture
-* 🔌 REST API Development and Integration
-* 🎨 Responsive UI/UX and RTL Interface Design
-* ☁️ Cloud Tools, Docker, and Deployment Workflows
+* ☁️ Cloud Deployment & Docker
+* 🗄️ Database Design & Optimization
+* 🚀 SaaS & Multi-Tenant Architecture
+* 🔌 REST API Development
+* 🎨 Responsive UI/UX & RTL Design
 
-I focus on writing clean, maintainable code and creating digital experiences that are fast, secure, scalable, and easy to use.
-
----
-
-# 🚍 Featured Project
-
-## Live Bus
-
-A real-time school transportation management SaaS platform designed to connect schools, drivers, and parents through smart and secure transportation solutions.
-
-### Features
-
-✅ Live GPS Bus Tracking
-✅ Parent Mobile Application
-✅ Driver Mobile Application
-✅ School Admin Dashboard
-✅ Multi-Tenant SaaS Architecture
-✅ Finance and Subscription System
-✅ Firebase Real-time Location Tracking
-✅ Push Notifications
-✅ REST API Backend
-✅ Real-time Data Synchronization
-✅ Performance Optimization
+I focus on writing **clean, maintainable, scalable, and secure code** while creating fast and user-friendly digital experiences.
 
 ---
 
-# 🚀 Other Projects
+# 🚀 Featured Project
 
-## 🌱 ITree — Academic Platform
+# 🚌 Live Bus
 
-A modern educational platform built for Arab university students, bringing academic resources, study tools, university services, and AI-powered features into one responsive Arabic-first platform.
+A complete **School Transportation Management SaaS Platform** that connects schools, drivers, and parents through secure real-time technologies.
 
-🌐 **Live Website:** [itree.pro](https://itree.pro)
+### ✨ Features
+
+* 📍 Live GPS Tracking
+* 👨‍👩‍👧 Parent Mobile Application
+* 🚌 Driver Mobile Application
+* 🏫 School Administration Dashboard
+* 🌍 Multi-Tenant SaaS Architecture
+* 💳 Subscription & Finance Management
+* 🔥 Firebase Real-time Synchronization
+* 🔔 Push Notifications
+* 🔐 Authentication & Authorization
+* 🌐 REST API Backend
+* ⚡ High Performance & Optimized Architecture
+
+### 🛠️ Technologies
+
+Flutter • Laravel • MySQL • Firebase • REST APIs • Docker • GitHub Actions
+
+---
+
+# 🌱 ITree
+
+**ITree** is an AI-powered educational platform designed for Arab university students.
+
+🌐 **Website:** https://itree.pro
 
 ### Features
 
-* Academic courses, summaries, assignments, exams, slides, and recordings
-* Semester and cumulative GPA calculator
-* Interactive academic study plans
-* Searchable faculty directory
-* Pomodoro timer, study statistics, streaks, and group study rooms
-* AI-powered quiz generation from PDF files
-* University workshops and student project showcases
-* Technical interview preparation quizzes
-* AI university assistant with source references
-* Real-time notifications
-* Multi-university support
-* Dark and light modes
-* Responsive Arabic RTL interface
-* SEO and social sharing optimization
+* 📚 Academic Resources
+* 📝 Courses & Study Materials
+* 📊 GPA Calculator
+* 📅 Academic Study Plans
+* 🔍 Faculty Directory
+* 🤖 AI University Assistant
+* 📄 AI Quiz Generation from PDFs
+* ⏱️ Pomodoro Timer
+* 📈 Study Statistics
+* 👥 Group Study Rooms
+* 📢 Real-time Notifications
+* 🌙 Dark & Light Themes
+* 🌍 Multi-University Support
+* 📱 Fully Responsive Arabic RTL Interface
 
 ### Technologies
 
-`React 19` `Vite` `Tailwind CSS` `Framer Motion` `JavaScript` `Context API` `reCAPTCHA`
+React 19 • Vite • Tailwind CSS • Framer Motion • Firebase • JavaScript
 
 ---
 
-## 🚌 Safra — Bus Ticket Booking Platform
+# 🚌 Safra
 
-A web-based platform for booking bus tickets between Palestinian cities through a smooth and fully Arabic RTL booking experience.
+A modern **Bus Ticket Booking Platform** built specifically for Palestinian transportation companies.
 
 ### Features
 
-* Search trips by departure city, destination, and date
-* View available departure times and bus capacity
-* Interactive 32-seat bus selection map
-* Electronic tickets with unique ticket codes
-* View, update, and cancel reservations
-* User registration and authentication
-* Secure PHP session management
-* Password hashing and verification
-* Protected ticket management endpoints
-* SQL Prepared Statements
-* Responsive Arabic RTL interface
+* Trip Search
+* Online Booking
+* Interactive Seat Selection
+* Electronic Tickets
+* Reservation Management
+* User Authentication
+* Secure Payment-ready Architecture
+* Responsive Arabic RTL Design
 
 ### Technologies
 
-`PHP` `MySQL` `HTML5` `CSS3` `JavaScript` `Bootstrap 5 RTL` `Flatpickr`
+PHP • MySQL • Bootstrap • JavaScript • HTML5 • CSS3
 
 ---
 
-## 🏠 Chalet Management System
+# 🏡 Chalet Management System
 
-A complete management system for chalet reservations and daily operations.
+A complete reservation and operations management platform.
+
+### Features
 
 * Booking Management
 * Customer Management
-* Administrative Dashboard
+* Dashboard
+* Reporting
 * Database Management
 
 ---
 
-## 🍽️ Restaurant Management System
+# 🍽️ Restaurant Management System
 
-A digital solution designed to simplify restaurant ordering and administration.
+A digital restaurant solution for online ordering and administration.
+
+### Features
 
 * Digital Menu
 * Online Ordering
 * Order Management
-* Administrative Controls
+* Administrative Dashboard
 
 ---
 
-## 🛒 E-Commerce Platform
+# 🛒 E-Commerce Platform
 
-A modern online shopping platform with responsive interfaces and integrated backend services.
+Modern online shopping platform.
 
-* Responsive Design
+### Features
+
 * Product Management
-* Backend APIs
-* Database Integration
+* Shopping Cart
+* Authentication
+* REST APIs
+* Responsive Design
 
 ---
 
-## 🐍 Python Projects
+# 🐍 Python Projects
 
-A collection of Python applications focused on automation, data processing, APIs, and software development.
+A collection of Python applications focused on automation and software development.
+
+### Projects Include
 
 * Automation Scripts
-* Data Analysis Projects
-* Web Scraping Tools
+* Data Analysis
 * REST APIs
+* Web Scraping
 * GUI Applications
+* Desktop Utilities
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-## 📱 Mobile Development
+## 📱 Mobile
 
-Flutter
-Dart
+* Flutter
+* Dart
 
-## ⚙️ Backend Development
+## ⚛️ Frontend
 
-Laravel
-PHP
-Flask
-REST APIs
+* React
+* HTML5
+* CSS3
+* JavaScript
+* Tailwind CSS
+* Bootstrap
 
-## 🌐 Frontend Development
+## ⚙️ Backend
 
-React
-HTML5
-CSS3
-JavaScript
-Tailwind CSS
-Bootstrap
+* Laravel
+* PHP
+* Flask
+* REST APIs
 
 ## 🗄️ Databases
 
-MySQL
-PostgreSQL
-SQLite
-SQL
-Database Design
+* MySQL
+* PostgreSQL
+* SQLite
 
-## 🐍 Programming Languages
+## 🐍 Languages
 
-Python
-Dart
-JavaScript
-PHP
+* Python
+* PHP
+* JavaScript
+* Dart
+* SQL
 
-## 📊 Data and Automation
+## 🔥 Cloud & DevOps
 
-Pandas
-NumPy
-Matplotlib
-Plotly
-BeautifulSoup
-Selenium
+* Firebase
+* Docker
+* Linux
+* Git
+* GitHub Actions
+* Bash
 
-## 🔥 Tools and Cloud
+## 📊 Data & Automation
 
-Firebase
-Docker
-Linux
-Git
-GitHub Actions
-Bash
-Jupyter Notebook
+* Pandas
+* NumPy
+* Matplotlib
+* Plotly
+* BeautifulSoup
+* Selenium
 
 ---
 
 # 🎓 Education
 
-## Palestine Technical University – Kadoorie
+**Palestine Technical University – Kadoorie**
 
-**Bachelor's Degree in Computer Science**
-2023 — 2027
+**Bachelor of Computer Science**
 
-### Areas of Focus
+📅 2023 – 2027
 
-* Software Development
-* Web and Mobile Development
-* Programming
+### Main Areas
+
+* Software Engineering
+* Web Development
+* Mobile Development
 * Database Systems
-* Algorithms and Data Structures
+* Algorithms
+* Data Structures
 * Object-Oriented Programming
 * Problem Solving
 
 ---
 
-# 📊 GitHub Stats
+# 🎯 Current Focus
 
-<div align="center">
+I'm currently focused on building scalable software products using:
 
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=amerriad0&show_icons=true&theme=tokyonight&hide_border=true" alt="Amer Riad GitHub Stats" />
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-  <a href="https://github.com/amerriad0">
-    <img src="https://img.shields.io/badge/GitHub-Developer-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Developer Badge" />
-  </a>
-
- 
-
-  <a href="https://github.com/amerriad0">
-    <img src="https://img.shields.io/badge/Contributions-2026-7952b3?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Contributions" />
-  </a>
-
-</div>
+* 🚀 SaaS Platforms
+* 🏢 Multi-Tenant Architecture
+* ☁️ Cloud Infrastructure
+* 📱 Mobile Applications
+* 🌐 Modern Web Applications
+* 🔥 Real-time Systems
+* ⚡ High-Performance Backend Systems
+* 🧩 Clean Architecture
 
 ---
 
-# 👀 Profile Views
+# 📈 GitHub
 
-<div align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=amerriad0&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-
-</div>
-
----
-
-# 📌 Current Focus
-
-Currently focused on building scalable software products using:
-
-* Clean Architecture
-* Real-time Systems
-* SaaS Platforms
-* Multi-Tenant Architecture
-* Cloud Infrastructure
-* Mobile Applications
-* Modern Responsive Web Applications
-* High-Performance Backend Systems
+* 📊 GitHub Stats
+* 🏆 GitHub Achievements
+* 📈 Contribution Graph
+* ⭐ Open Source Projects
 
 ---
 
 # 📫 Connect With Me
 
-<p align="center">
-
-  <a href="mailto:amer.riad9@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-
- 
-
-  <a href="https://www.linkedin.com/in/amer-riad-73a67b277/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
- 
-
-  <a href="https://instagram.com/amer._.riad0">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-
-</p>
+* 📧 Gmail
+* 💼 LinkedIn
+* 📷 Instagram
 
 ---
 
-<div align="center">
+## ⭐ Thanks for visiting my profile!
 
-⭐ **Thanks for visiting my profile!**
+> *"Building software that solves real-world problems with clean architecture, scalable systems, and modern technologies."*
 
-Always learning, building, and transforming ideas into real-world software products.
-
-</div>
+Always learning. Always building. Always improving. 🚀
