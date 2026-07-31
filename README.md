@@ -28,28 +28,31 @@ I focus on writing **clean, maintainable, scalable, and secure code** while crea
 
 # 🚀 Featured Project
 
-🎓 EduOne
+# 🎓 EduOne
 
-A complete School & Kindergarten Operations SaaS Platform that connects schools, drivers, teachers, and parents through secure real-time technologies — managing students, classes, attendance, finance, communication, and smart transportation.
+A complete **School & Kindergarten Operations SaaS Platform** that connects schools, drivers, teachers, and parents through secure real-time technologies — managing students, classes, attendance, finance, communication, and smart transportation.
 
-✨ Features
-👨‍🎓 Student & Class Management
-📋 Daily & Trip Attendance Management
-📍 Live GPS Tracking
-👨‍👩‍👧 Parent Mobile Application
-🚌 Driver Mobile Application
-🏫 School & Kindergarten Administration Dashboard
-📢 Targeted Announcements & Communication
-🌍 Multi-Tenant SaaS Architecture
-💳 Subscription & Finance Management
-🔥 Firebase Real-time Synchronization
-🔔 Push Notifications
-🔐 Authentication & Authorization
-🌐 REST API Backend
-⚡ High Performance & Optimized Architecture
-🛠️ Technologies
+## ✨ Features
+
+- 👨‍🎓 Student & Class Management
+- 📋 Daily & Trip Attendance Management
+- 📍 Live GPS Tracking
+- 👨‍👩‍👧 Parent Mobile Application
+- 🚌 Driver Mobile Application
+- 🏫 School & Kindergarten Administration Dashboard
+- 📢 Targeted Announcements & Communication
+- 🌍 Multi-Tenant SaaS Architecture
+- 💳 Subscription & Finance Management
+- 🔥 Firebase Real-time Synchronization
+- 🔔 Push Notifications
+- 🔐 Authentication & Authorization
+- 🌐 REST API Backend
+- ⚡ High Performance & Optimized Architecture
+
+## 🛠️ Technologies
 
 Flutter • Laravel • MySQL • Firebase • REST APIs • Docker • GitHub Actions
+
 
 ---
 
