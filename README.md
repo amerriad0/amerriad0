@@ -1,13 +1,16 @@
 # Hi there, I'm Amer Riad 👋
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;Computer+Science+Student;Flutter+%7C+React+%7C+Laravel;SaaS+%7C+Cloud+%7C+Real-Time+Systems;Always+Learning+%26+Building+🚀" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;Computer+Science+Student;Flutter+%7C+React+%7C+Laravel;SaaS+%7C+Cloud+%7C+Real-Time+Systems;Always+Learning+%26+Building"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=amerriad0&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/amerriad0?style=for-the-badge&logo=github&label=Followers" />
-<img src="https://img.shields.io/github/stars/amerriad0?style=for-the-badge&logo=github&label=Stars" />
+  <img src="https://komarev.com/ghpvc/?username=amerriad0&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/amerriad0?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/amerriad0?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars" />
 </p>
 
 ---
@@ -40,11 +43,11 @@ I focus on building **clean, scalable, maintainable, and high-performance softwa
 
 # 🚀 Featured Project
 
-# 🎓 EduOne
+## 🎓 EduOne
 
 A complete **School & Kindergarten Operations SaaS Platform** connecting schools, teachers, drivers, and parents through real-time technologies.
 
-## ✨ Features
+### ✨ Features
 
 - 👨‍🎓 Student Management
 - 🏫 School Administration
@@ -60,10 +63,10 @@ A complete **School & Kindergarten Operations SaaS Platform** connecting schools
 - 🔐 Authentication & Authorization
 - ⚡ Optimized Backend Performance
 
-## 🛠 Technologies
+### 🛠 Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,mysql,firebase,docker,githubactions" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,mysql,firebase,docker,githubactions" alt="EduOne Technologies" />
 </p>
 
 ---
@@ -72,7 +75,7 @@ A complete **School & Kindergarten Operations SaaS Platform** connecting schools
 
 AI-powered educational platform designed for Arab university students.
 
-## Features
+### ✨ Features
 
 - 📚 Academic Resources
 - 🤖 AI University Assistant
@@ -85,9 +88,9 @@ AI-powered educational platform designed for Arab university students.
 - 🌍 Multi-University Support
 - 📱 Arabic RTL Experience
 
-## Technologies
+### 🛠 Technologies
 
-React 19 • Vite • Tailwind CSS • Firebase • Framer Motion
+**React 19 • Vite • Tailwind CSS • Firebase • Framer Motion**
 
 ---
 
@@ -95,7 +98,7 @@ React 19 • Vite • Tailwind CSS • Firebase • Framer Motion
 
 Modern bus ticket booking platform for Palestinian transportation companies.
 
-## Features
+### ✨ Features
 
 - 🚌 Trip Search
 - 💺 Seat Selection
@@ -104,9 +107,9 @@ Modern bus ticket booking platform for Palestinian transportation companies.
 - 📱 Responsive RTL Design
 - 💳 Payment Ready Architecture
 
-## Technologies
+### 🛠 Technologies
 
-PHP • MySQL • Bootstrap • JavaScript
+**PHP • MySQL • Bootstrap • JavaScript**
 
 ---
 
@@ -114,10 +117,10 @@ PHP • MySQL • Bootstrap • JavaScript
 
 Reservation and operation management platform.
 
-Features:
+### ✨ Features
 
 - Booking Management
-- Customers Management
+- Customer Management
 - Dashboard
 - Reports
 - Database Management
@@ -126,9 +129,9 @@ Features:
 
 # 🍽️ Restaurant Management System
 
-Digital restaurant solution.
+Digital restaurant management solution.
 
-Features:
+### ✨ Features
 
 - Digital Menu
 - Online Orders
@@ -141,9 +144,9 @@ Features:
 
 Modern shopping platform.
 
-Features:
+### ✨ Features
 
-- Products Management
+- Product Management
 - Shopping Cart
 - Authentication
 - REST APIs
@@ -167,38 +170,44 @@ Projects focused on automation and software development.
 # 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,tailwind,laravel,php,python,mysql,postgres,firebase,docker,linux,git,githubactions" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,tailwind,laravel,php,python,mysql,postgres,firebase,docker,linux,git,githubactions" alt="Tech Stack" />
 </p>
 
-### Mobile
+### 📱 Mobile
+
 Flutter • Dart
 
-### Frontend
+### 🎨 Frontend
+
 React • JavaScript • HTML5 • CSS3 • Tailwind CSS
 
-### Backend
+### ⚙️ Backend
+
 Laravel • PHP • Flask • REST APIs
 
-### Databases
+### 🗄️ Databases
+
 MySQL • PostgreSQL • SQLite
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
+
 Firebase • Docker • Linux • GitHub Actions
 
-### Data & Automation
+### 📊 Data & Automation
+
 Pandas • NumPy • Matplotlib • Plotly • Selenium
 
 ---
 
 # 🎓 Education
 
-**Palestine Technical University – Kadoorie**
+### Palestine Technical University – Kadoorie
 
-Bachelor of Computer Science
+**Bachelor of Computer Science**
 
 📅 2023 - 2027
 
-Focus:
+### Focus
 
 - Software Engineering
 - Algorithms
@@ -211,7 +220,7 @@ Focus:
 
 # 🎯 Current Focus
 
-Building:
+Currently building and learning more about:
 
 - 🚀 SaaS Platforms
 - 🏢 Multi-Tenant Systems
@@ -226,15 +235,27 @@ Building:
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amerriad0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amerriad0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=amerriad0&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Amer Riad GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amerriad0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 ---
+
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=amerriad0&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=amerriad0&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
@@ -242,7 +263,10 @@ Building:
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=amerriad0&theme=tokyonight&no-frame=true&row=1" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=amerriad0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
@@ -250,7 +274,10 @@ Building:
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amerriad0&theme=tokyo-night&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=amerriad0&theme=tokyo-night&hide_border=true"
+    alt="GitHub Contribution Graph"
+  />
 </p>
 
 ---
@@ -258,7 +285,20 @@ Building:
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/amerriad0/amerriad0/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/amerriad0/amerriad0/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/amerriad0/amerriad0/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/amerriad0/amerriad0/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
 
 ---
@@ -266,7 +306,23 @@ Building:
 # 💻 Developer Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=amerriad0&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amerriad0&theme=tokyonight"
+    alt="GitHub Profile Summary"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amerriad0&theme=tokyonight"
+    height="180"
+    alt="Repositories Per Language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amerriad0&theme=tokyonight"
+    height="180"
+    alt="Most Commit Language"
+  />
 </p>
 
 ---
@@ -276,15 +332,15 @@ Building:
 <p align="center">
 
 <a href="mailto:amer.riad9@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail" />
 </a>
 
 <a href="https://www.linkedin.com/in/amer-riad-73a67b277">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
 </a>
 
 <a href="https://github.com/amerriad0">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
 </a>
 
 </p>
