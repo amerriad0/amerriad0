@@ -249,30 +249,7 @@ Currently building and learning more about:
 
 ---
 
-# 📊 GitHub Profile
 
-<p align="center">
-
-<a href="https://github.com/amerriad0">
-  <img
-    src="https://img.shields.io/badge/GitHub-amerriad0-181717?style=for-the-badge&logo=github"
-    alt="GitHub"
-  />
-</a>
-
-<img
-  src="https://img.shields.io/github/followers/amerriad0?style=for-the-badge&logo=github&label=Followers"
-  alt="Followers"
-/>
-
-<img
-  src="https://img.shields.io/github/stars/amerriad0?style=for-the-badge&logo=github&label=Stars"
-  alt="Stars"
-/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
@@ -310,28 +287,7 @@ Currently building and learning more about:
 
 ---
 
-# 💻 Developer Activity
 
-<p align="center">
-
-<img
-  src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-36BCF7?style=for-the-badge"
-  alt="Full Stack Development"
-/>
-
-<img
-  src="https://img.shields.io/badge/Building-SaaS%20Platforms-36BCF7?style=for-the-badge"
-  alt="SaaS Platforms"
-/>
-
-<img
-  src="https://img.shields.io/badge/Learning-Cloud%20%26%20DevOps-36BCF7?style=for-the-badge"
-  alt="Cloud and DevOps"
-/>
-
-</p>
-
----
 
 # 📫 Connect With Me
 
