@@ -242,7 +242,6 @@ Currently building and improving my skills in:
 
 <p align="center">
   <picture>
-
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/amerriad0/amerriad0/output/github-snake-dark.svg"
@@ -257,7 +256,6 @@ Currently building and improving my skills in:
       alt="GitHub Contribution Snake"
       src="https://raw.githubusercontent.com/amerriad0/amerriad0/output/github-snake.svg"
     />
-
   </picture>
 </p>
 
