@@ -1,32 +1,8 @@
 # Hi there, I'm Amer Riad 👋
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;Computer+Science+Student;Flutter+%7C+React+%7C+Laravel;SaaS+%7C+Cloud+%7C+Real-Time+Systems;Always+Learning+%26+Building"
-    alt="Typing SVG"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=amerriad0&label=Profile%20Views&color=0e75b6&style=for-the-badge"
-    alt="Profile Views"
-  />
-
-  <img
-    src="https://img.shields.io/github/followers/amerriad0?style=for-the-badge&logo=github&label=Followers"
-    alt="Followers"
-  />
-
-  <img
-    src="https://img.shields.io/github/stars/amerriad0?style=for-the-badge&logo=github&label=Stars"
-    alt="Stars"
-  />
-</p>
-
 ---
 
-# 🚀 Full Stack Software Engineer
+# 🚀 Full Stack Developer
 
 I'm a **Computer Science student** and **Full Stack Developer** passionate about building scalable software products, modern SaaS platforms, real-time applications, and mobile solutions.
 
@@ -36,19 +12,25 @@ I enjoy transforming ideas into production-ready systems — from creating moder
 
 # 👨‍💻 About Me
 
-- 💻 Full Stack Web & Mobile Developer
-- 📱 Flutter Application Developer
+I'm a **Full Stack Developer** focused on building modern web and mobile applications from frontend to backend.
+
+I work with responsive interfaces, backend systems, REST APIs, databases, real-time technologies, and cloud-based solutions.
+
+### What I Do
+
+- 💻 Full Stack Web Developer
+- 📱 Flutter Mobile Developer
 - ⚛️ React Frontend Developer
 - ⚙️ Laravel & PHP Backend Developer
 - 🐍 Python Developer
-- 🔥 Firebase Real-Time Systems
-- ☁️ Cloud & Docker Enthusiast
+- 🔥 Firebase & Real-Time Applications
 - 🗄️ Database Design & Optimization
-- 🚀 SaaS & Multi-Tenant Architecture
 - 🔌 REST API Development
-- 🎨 RTL & Responsive UI/UX
+- ☁️ Cloud & Docker
+- 🚀 SaaS & Multi-Tenant Systems
+- 🎨 Responsive UI/UX Design
 
-I focus on building **clean, scalable, maintainable, and high-performance software solutions.**
+I focus on building **clean, scalable, maintainable, and high-performance applications.**
 
 ---
 
@@ -76,12 +58,7 @@ A complete **School & Kindergarten Operations SaaS Platform** connecting schools
 
 ### 🛠 Technologies
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,mysql,firebase,docker,githubactions"
-    alt="EduOne Technologies"
-  />
-</p>
+**Flutter • Dart • Laravel • PHP • MySQL • Firebase • Docker**
 
 ---
 
@@ -183,20 +160,13 @@ Projects focused on automation and software development.
 
 # 🛠 Tech Stack
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=flutter,dart,react,tailwind,laravel,php,python,mysql,postgres,firebase,docker,linux,git,githubactions"
-    alt="Tech Stack"
-  />
-</p>
-
 ### 📱 Mobile
 
 Flutter • Dart
 
 ### 🎨 Frontend
 
-React • JavaScript • HTML5 • CSS3 • Tailwind CSS
+React • JavaScript • HTML5 • CSS3 • Tailwind CSS • Bootstrap
 
 ### ⚙️ Backend
 
@@ -204,11 +174,11 @@ Laravel • PHP • Flask • REST APIs
 
 ### 🗄️ Databases
 
-MySQL • PostgreSQL • SQLite
+MySQL • PostgreSQL • SQLite • Firebase
 
 ### ☁️ Cloud & DevOps
 
-Firebase • Docker • Linux • GitHub Actions
+Docker • Linux • Git • GitHub Actions
 
 ### 📊 Data & Automation
 
@@ -237,19 +207,18 @@ Pandas • NumPy • Matplotlib • Plotly • Selenium
 
 # 🎯 Current Focus
 
-Currently building and learning more about:
+Currently building and improving my skills in:
 
-- 🚀 SaaS Platforms
-- 🏢 Multi-Tenant Systems
-- ☁️ Cloud Infrastructure
-- 📱 Mobile Applications
-- 🔥 Real-Time Systems
-- ⚡ High Performance APIs
+- 🚀 Full Stack Web Development
+- 📱 Flutter Mobile Applications
+- ⚙️ Backend & REST API Development
+- 🏢 SaaS & Multi-Tenant Systems
+- ☁️ Cloud & DevOps
+- 🔥 Real-Time Applications
+- ⚡ Performance Optimization
 - 🧩 Clean Architecture
 
 ---
-
-
 
 # 📈 Contribution Graph
 
@@ -287,34 +256,20 @@ Currently building and learning more about:
 
 ---
 
-
-
 # 📫 Connect With Me
 
 <p align="center">
 
 <a href="mailto:amer.riad9@gmail.com">
-  <img
-    src="https://skillicons.dev/icons?i=gmail"
-    height="45"
-    alt="Gmail"
-  />
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail" />
 </a>
 
 <a href="https://www.linkedin.com/in/amer-riad-73a67b277">
-  <img
-    src="https://skillicons.dev/icons?i=linkedin"
-    height="45"
-    alt="LinkedIn"
-  />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
 </a>
 
 <a href="https://github.com/amerriad0">
-  <img
-    src="https://skillicons.dev/icons?i=github"
-    height="45"
-    alt="GitHub"
-  />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
 </a>
 
 </p>
@@ -323,12 +278,12 @@ Currently building and learning more about:
 
 <div align="center">
 
-### 🚀 Building Software That Solves Real-World Problems
+### 🚀 Building Modern Full Stack Applications
 
-*"Clean architecture, scalable systems, and modern technologies."*
+*"Creating scalable web and mobile applications with clean architecture and modern technologies."*
 
 <br>
 
-**Always learning. Always building. Always improving. 🚀**
+**Full Stack • Flutter • React • Laravel • Python 🚀**
 
 </div>
