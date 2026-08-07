@@ -1,283 +1,192 @@
 # Hi there, I'm Amer Riad 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;Computer+Science+Student;Flutter+%7C+React+%7C+Laravel;SaaS+%7C+Cloud+%7C+Real-Time+Systems;Always+Learning.+Always+Building.+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;Computer+Science+Student;Flutter+%7C+React+%7C+Laravel;SaaS+%7C+Cloud+%7C+Real-Time+Systems;Always+Learning+%26+Building+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amer-riad&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/amer-riad?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/amer-riad">
-    <img src="https://img.shields.io/github/stars/amer-riad?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars" />
-  </a>
+<img src="https://komarev.com/ghpvc/?username=amerriad0&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/amerriad0?style=for-the-badge&logo=github&label=Followers" />
+<img src="https://img.shields.io/github/stars/amerriad0?style=for-the-badge&logo=github&label=Stars" />
 </p>
 
 ---
 
-## 🚀 Full Stack Software Engineer
+# 🚀 Full Stack Software Engineer
 
 I'm a **Computer Science student** and **Full Stack Developer** passionate about building scalable software products, modern SaaS platforms, real-time applications, and mobile solutions.
 
-I enjoy transforming ideas into production-ready systems—from designing intuitive user interfaces to developing secure backend architectures, databases, APIs, and cloud infrastructure.
+I enjoy transforming ideas into production-ready systems — from creating modern interfaces to designing secure backend architectures, APIs, databases, and cloud infrastructure.
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-* 💻 Full Stack Web & Mobile Developer
-* 📱 Flutter Mobile Application Developer
-* ⚛️ React Frontend Developer
-* ⚙️ Laravel, PHP & Flask Backend Developer
-* 🐍 Python Developer & Automation Enthusiast
-* 🔥 Firebase Real-time Systems
-* ☁️ Cloud Deployment & Docker
-* 🗄️ Database Design & Optimization
-* 🚀 SaaS & Multi-Tenant Architecture
-* 🔌 REST API Development
-* 🎨 Responsive UI/UX & RTL Design
+- 💻 Full Stack Web & Mobile Developer
+- 📱 Flutter Application Developer
+- ⚛️ React Frontend Developer
+- ⚙️ Laravel & PHP Backend Developer
+- 🐍 Python Developer
+- 🔥 Firebase Real-Time Systems
+- ☁️ Cloud & Docker Enthusiast
+- 🗄️ Database Design & Optimization
+- 🚀 SaaS & Multi-Tenant Architecture
+- 🔌 REST API Development
+- 🎨 RTL & Responsive UI/UX
 
-I focus on writing **clean, maintainable, scalable, and secure code** while creating fast and user-friendly digital experiences.
+I focus on building **clean, scalable, maintainable, and high-performance software solutions.**
 
 ---
 
 # 🚀 Featured Project
 
-<div align="center">
-
 # 🎓 EduOne
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=School+%26+Kindergarten+SaaS;Real-Time+Transportation;Multi-Tenant+Architecture;Flutter+%2B+Laravel+%2B+Firebase" alt="EduOne Animation" />
-
-</div>
-
-A complete **School & Kindergarten Operations SaaS Platform** that connects schools, drivers, teachers, and parents through secure real-time technologies — managing students, classes, attendance, finance, communication, and smart transportation.
+A complete **School & Kindergarten Operations SaaS Platform** connecting schools, teachers, drivers, and parents through real-time technologies.
 
 ## ✨ Features
 
-* 👨‍🎓 Student & Class Management
-* 📋 Daily & Trip Attendance Management
-* 📍 Live GPS Tracking
-* 👨‍👩‍👧 Parent Mobile Application
-* 🚌 Driver Mobile Application
-* 🏫 School & Kindergarten Administration Dashboard
-* 📢 Targeted Announcements & Communication
-* 🌍 Multi-Tenant SaaS Architecture
-* 💳 Subscription & Finance Management
-* 🔥 Firebase Real-time Synchronization
-* 🔔 Push Notifications
-* 🔐 Authentication & Authorization
-* 🌐 REST API Backend
-* ⚡ High Performance & Optimized Architecture
+- 👨‍🎓 Student Management
+- 🏫 School Administration
+- 📍 Live GPS Bus Tracking
+- 🚌 Driver Application
+- 👨‍👩‍👧 Parent Application
+- 📋 Attendance Management
+- 📚 Academic Management
+- 💳 Subscription System
+- 🌍 Multi-Tenant Architecture
+- 🔥 Firebase Real-Time Sync
+- 🔔 Push Notifications
+- 🔐 Authentication & Authorization
+- ⚡ Optimized Backend Performance
 
-## 🛠️ Technologies
+## 🛠 Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,mysql,firebase,docker,githubactions&perline=8" alt="EduOne Technologies" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,mysql,firebase,docker,githubactions" />
 </p>
 
 ---
 
 # 🌱 ITree
 
-<div align="center">
+AI-powered educational platform designed for Arab university students.
 
-**ITree** is an AI-powered educational platform designed for Arab university students.
+## Features
 
-<a href="https://itree.pro">
-  <img src="https://img.shields.io/badge/🌐%20Visit%20ITree-itree.pro-36BCF7?style=for-the-badge" alt="ITree Website" />
-</a>
+- 📚 Academic Resources
+- 🤖 AI University Assistant
+- 📄 AI Quiz Generation
+- 📊 GPA Calculator
+- 📅 Study Plans
+- ⏱️ Pomodoro Timer
+- 📈 Study Analytics
+- 🌙 Dark / Light Mode
+- 🌍 Multi-University Support
+- 📱 Arabic RTL Experience
 
-</div>
+## Technologies
 
-### Features
-
-* 📚 Academic Resources
-* 📝 Courses & Study Materials
-* 📊 GPA Calculator
-* 📅 Academic Study Plans
-* 🔍 Faculty Directory
-* 🤖 AI University Assistant
-* 📄 AI Quiz Generation from PDFs
-* ⏱️ Pomodoro Timer
-* 📈 Study Statistics
-* 👥 Group Study Rooms
-* 📢 Real-time Notifications
-* 🌙 Dark & Light Themes
-* 🌍 Multi-University Support
-* 📱 Fully Responsive Arabic RTL Interface
-
-### Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,firebase,js&perline=8" alt="ITree Technologies" />
-</p>
-
-React 19 • Vite • Tailwind CSS • Framer Motion • Firebase • JavaScript
+React 19 • Vite • Tailwind CSS • Firebase • Framer Motion
 
 ---
 
 # 🚌 Safra
 
-A modern **Bus Ticket Booking Platform** built specifically for Palestinian transportation companies.
+Modern bus ticket booking platform for Palestinian transportation companies.
 
-### Features
+## Features
 
-* Trip Search
-* Online Booking
-* Interactive Seat Selection
-* Electronic Tickets
-* Reservation Management
-* User Authentication
-* Secure Payment-ready Architecture
-* Responsive Arabic RTL Design
+- 🚌 Trip Search
+- 💺 Seat Selection
+- 🎫 Electronic Tickets
+- 🔐 Authentication
+- 📱 Responsive RTL Design
+- 💳 Payment Ready Architecture
 
-### Technologies
+## Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,mysql,bootstrap,js,html,css&perline=8" alt="Safra Technologies" />
-</p>
-
-PHP • MySQL • Bootstrap • JavaScript • HTML5 • CSS3
+PHP • MySQL • Bootstrap • JavaScript
 
 ---
 
 # 🏡 Chalet Management System
 
-A complete reservation and operations management platform.
+Reservation and operation management platform.
 
-### Features
+Features:
 
-* Booking Management
-* Customer Management
-* Dashboard
-* Reporting
-* Database Management
+- Booking Management
+- Customers Management
+- Dashboard
+- Reports
+- Database Management
 
 ---
 
 # 🍽️ Restaurant Management System
 
-A digital restaurant solution for online ordering and administration.
+Digital restaurant solution.
 
-### Features
+Features:
 
-* Digital Menu
-* Online Ordering
-* Order Management
-* Administrative Dashboard
+- Digital Menu
+- Online Orders
+- Order Management
+- Admin Dashboard
 
 ---
 
 # 🛒 E-Commerce Platform
 
-Modern online shopping platform.
+Modern shopping platform.
 
-### Features
+Features:
 
-* Product Management
-* Shopping Cart
-* Authentication
-* REST APIs
-* Responsive Design
+- Products Management
+- Shopping Cart
+- Authentication
+- REST APIs
+- Responsive UI
 
 ---
 
 # 🐍 Python Projects
 
-A collection of Python applications focused on automation and software development.
+Projects focused on automation and software development.
 
-### Projects Include
-
-* Automation Scripts
-* Data Analysis
-* REST APIs
-* Web Scraping
-* GUI Applications
-* Desktop Utilities
+- Automation Scripts
+- Data Analysis
+- REST APIs
+- Web Scraping
+- GUI Applications
+- Desktop Tools
 
 ---
 
 # 🛠 Tech Stack
 
-## 📱 Mobile
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile Technologies" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,tailwind,laravel,php,python,mysql,postgres,firebase,docker,linux,git,githubactions" />
 </p>
 
-* Flutter
-* Dart
+### Mobile
+Flutter • Dart
 
-## ⚛️ Frontend
+### Frontend
+React • JavaScript • HTML5 • CSS3 • Tailwind CSS
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,bootstrap" alt="Frontend Technologies" />
-</p>
+### Backend
+Laravel • PHP • Flask • REST APIs
 
-* React
-* HTML5
-* CSS3
-* JavaScript
-* Tailwind CSS
-* Bootstrap
+### Databases
+MySQL • PostgreSQL • SQLite
 
-## ⚙️ Backend
+### Cloud & DevOps
+Firebase • Docker • Linux • GitHub Actions
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,flask" alt="Backend Technologies" />
-</p>
-
-* Laravel
-* PHP
-* Flask
-* REST APIs
-
-## 🗄️ Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="Database Technologies" />
-</p>
-
-* MySQL
-* PostgreSQL
-* SQLite
-
-## 🐍 Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,js,dart,mysql" alt="Programming Languages" />
-</p>
-
-* Python
-* PHP
-* JavaScript
-* Dart
-* SQL
-
-## 🔥 Cloud & DevOps
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,docker,linux,git,githubactions,bash" alt="Cloud and DevOps" />
-</p>
-
-* Firebase
-* Docker
-* Linux
-* Git
-* GitHub Actions
-* Bash
-
-## 📊 Data & Automation
-
-* Pandas
-* NumPy
-* Matplotlib
-* Plotly
-* BeautifulSoup
-* Selenium
+### Data & Automation
+Pandas • NumPy • Matplotlib • Plotly • Selenium
 
 ---
 
@@ -285,97 +194,84 @@ A collection of Python applications focused on automation and software developme
 
 **Palestine Technical University – Kadoorie**
 
-**Bachelor of Computer Science**
+Bachelor of Computer Science
 
-📅 2023 – 2027
+📅 2023 - 2027
 
-### Main Areas
+Focus:
 
-* Software Engineering
-* Web Development
-* Mobile Development
-* Database Systems
-* Algorithms
-* Data Structures
-* Object-Oriented Programming
-* Problem Solving
+- Software Engineering
+- Algorithms
+- Data Structures
+- Database Systems
+- Web Development
+- Mobile Development
 
 ---
 
 # 🎯 Current Focus
 
-I'm currently focused on building scalable software products using:
+Building:
 
-* 🚀 SaaS Platforms
-* 🏢 Multi-Tenant Architecture
-* ☁️ Cloud Infrastructure
-* 📱 Mobile Applications
-* 🌐 Modern Web Applications
-* 🔥 Real-time Systems
-* ⚡ High-Performance Backend Systems
-* 🧩 Clean Architecture
+- 🚀 SaaS Platforms
+- 🏢 Multi-Tenant Systems
+- ☁️ Cloud Infrastructure
+- 📱 Mobile Applications
+- 🔥 Real-Time Systems
+- ⚡ High Performance APIs
+- 🧩 Clean Architecture
 
 ---
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amer-riad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=amerriad0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amer-riad&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amerriad0&layout=compact&theme=tokyonight&hide_border=true" />
 
-</div>
+</p>
 
 ---
 
 # 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=amer-riad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=amerriad0&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 # 🏆 GitHub Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=amer-riad&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
-
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=amerriad0&theme=tokyonight&no-frame=true&row=1" />
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amer-riad&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amerriad0&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
 # 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/amer-riad/amer-riad/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-
-</div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/amerriad0/amerriad0/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 # 💻 Developer Activity
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=amer-riad&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
-
-</div>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=amerriad0&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -384,19 +280,15 @@ I'm currently focused on building scalable software products using:
 <p align="center">
 
 <a href="mailto:amer.riad9@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-<a href="https://www.linkedin.com/in/amer-riad-73a67b277" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/amer-riad-73a67b277">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="https://www.instagram.com/amer._.riad0" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram"/>
-</a>
-
-<a href="https://github.com/amer-riad" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+<a href="https://github.com/amerriad0">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
 </p>
@@ -405,16 +297,10 @@ I'm currently focused on building scalable software products using:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!+⭐;Building+real-world+software+%F0%9F%9A%80;Designing+scalable+systems+%F0%9F%A7%A9;Creating+modern+digital+experiences+%F0%9F%92%BB;Always+learning.+Always+building.+Always+improving.+%F0%9F%94%A5" alt="Footer Animation" />
+*"Building software that solves real-world problems with clean architecture, scalable systems, and modern technologies."*
 
-<br/>
-
-> *"Building software that solves real-world problems with clean architecture, scalable systems, and modern technologies."*
+<br>
 
 **Always learning. Always building. Always improving. 🚀**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer" width="100%" alt="Footer Animation"/>
 
 </div>
