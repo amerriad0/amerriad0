@@ -6,7 +6,7 @@
   </picture>
 </p>
 
----
+
 # Hi there, I'm Amer Riad 👋
 
 <p align="center">
