@@ -1,3 +1,14 @@
+# 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amerriad0/amerriad0/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amerriad0/amerriad0/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/amerriad0/amerriad0/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
 # Hi there, I'm Amer Riad 👋
 
 <p align="center">
@@ -238,17 +249,7 @@ Currently building and improving my skills in:
 
 ---
 
-# 🐍 Contribution Snake
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amerriad0/amerriad0/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amerriad0/amerriad0/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/amerriad0/amerriad0/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
 
 # 📫 Connect With Me
 
