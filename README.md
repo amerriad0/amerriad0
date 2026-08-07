@@ -226,15 +226,11 @@ Building:
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=amerriad0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amerriad0&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=amerriad0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amerriad0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 </p>
 
 ---
-
 # 🔥 GitHub Streak
 
 <p align="center">
